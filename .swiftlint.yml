@@ -1,0 +1,30 @@
+disabled_rules:
+- todo
+
+opt_in_rules:
+- array_init
+
+force_case: warning
+force_try: warning
+function_body_length:
+    warning: 30
+
+identifier_name:
+    excluded:
+    - i
+    - j
+    - x
+    - y
+    - z
+
+type_name:
+    min_lenght: 5
+    max_lenght: 15
+
+line_lenght:
+    ignores_urls: true
+    ignores_function_declarations: true
+    ignores_comments: true
+
+vertical_whitespace:
+    max_empty_linese: 2
