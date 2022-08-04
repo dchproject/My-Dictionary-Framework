@@ -1,1 +1,1 @@
-# MyDictionarySDK
+# MyDictionaryFramework
