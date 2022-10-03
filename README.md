@@ -12,10 +12,16 @@
 
 This Framework provides maximum convenience when adding, updating, deleting words.
 
+## Contribution
+
+- If you **want to contribute**, read the [Contributing Guide](https://github.com/dchproject/MyDictionaryFramework/blob/main/.github/CONTRIBUTING.md)
+
 ## References
+
 - https://github.com/torvalds/linux
 - https://github.com/SDWebImage/SDWebImage
 - https://github.com/TimOliver/TOCropViewController
 
 ## License
-MyDictionaryFramework is licensed under the MIT License, please see the [LICENSE](LICENSE) file.
+
+- MyDictionaryFramework is licensed under the MIT License, please see the [LICENSE](LICENSE) file.
