@@ -1,4 +1,4 @@
-# Contributing to MyDictionaryFramework
+# Contributing to My-Dictionary-Framework
 
 First of all, I want to thank you for your interest in this project.
 Every contribution matters.
