@@ -24,4 +24,4 @@ This Framework provides maximum convenience when adding, updating, deleting word
 
 ## License
 
-- MyDictionaryFramework is licensed under the MIT License, please see the [LICENSE](LICENSE) file.
+- My-Dictionary-Framework is licensed under the MIT License, please see the [LICENSE](LICENSE) file.
